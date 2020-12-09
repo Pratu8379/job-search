@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -35,4 +36,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+.mb-3{
+  font-family: 'Sansita Swashed', cursive,'Song Myung', serif,'Satisfy', cursive;
+
+}
+
+h1{
+  font-family: 'Satisfy', cursive;
 }
