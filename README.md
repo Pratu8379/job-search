@@ -31,7 +31,7 @@ You can Access Github API from [here]( https://jobs.github.com/api)
 
 # Screenshots of Working Project
 
-![](images/img1)
+![](images/img1.jpeg)
 
 
 
