@@ -14,7 +14,7 @@ Boostrap React Package is used for Design Purpose.
 # API used in Project
 
 Github Job API Used To to fetch and Display Data over the screen.
-You can Access Github API from [here] :{ https://jobs.github.com/api}
+You can Access Github API from [here] :( https://jobs.github.com/api)
 
 
 # Functionality in project
@@ -24,7 +24,7 @@ You can Access Github API from [here] :{ https://jobs.github.com/api}
 3)Filter by Job Type
 
 
-[Live Webpage] {https://job-search1.netlify.app/}  of the project .
+[Live Webpage] (https://job-search1.netlify.app/)  of the project .
 
 
 
