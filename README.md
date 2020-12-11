@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # About the Project
 
+This project is based on Idea of Searching Jobs based on different location ,Description and Job Type .
+
 This project is Developed with Reactjs and React Hooks like UseState Hook,UseEffect Hook,and UseReducer Hook  which Allows function components to use state and other previous class-only features.
 
 # Designing
