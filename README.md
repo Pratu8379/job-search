@@ -29,7 +29,9 @@ You can Access Github API from [here]( https://jobs.github.com/api)
 [Live Webpage](https://job-search1.netlify.app/)  of the project .
 
 
+# Screenshots of Working Project
 
+![](images/img1)
 
 
 
